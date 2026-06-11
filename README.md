@@ -2,15 +2,6 @@
 
 ## Big Data Management – Assignment 01
 
-### Student Details
-
-| Field | Information |
-|---------|-------------|
-| Name | Piyush Ashok Patil |
-| Student ID | 3191958 |
-| Course | MSc in Big Data Management and Analytics |
-| Instructor | Dr. Aqeel Kazmi |
-| Submission Date | 14 March 2026 |
 
 ---
 
