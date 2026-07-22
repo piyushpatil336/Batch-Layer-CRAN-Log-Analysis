@@ -1,7 +1,5 @@
 # Batch Layer Implementation
 
-## Big Data Management – Assignment 01
-
 
 ---
 
